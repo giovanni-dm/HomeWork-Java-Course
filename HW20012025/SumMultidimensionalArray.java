@@ -24,6 +24,8 @@ public class SumMultidimensionalArray {
 
         System.out.println("Smallest element: " + smallest);
         System.out.println("Largest element: " + largest);
+        int sum = smallest + largest;
+        System.out.println("Sum of smallest and largest element: " + sum);
 
     }
 
