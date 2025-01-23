@@ -78,9 +78,9 @@ public class DateAndTime {
 
 
         // Compare the entered date with today
-        if (date.isBefore(today)) {
+        if (date.isBefore(todayDate)) {
             System.out.println("You have entered an invalid date.");
-        } else if (date.isAfter(today)) {
+        } else if (date.isAfter(todayDate)) {
             System.out.println("You can enter the time.");
         } else {
             System.out.println("The entered date is today.");
