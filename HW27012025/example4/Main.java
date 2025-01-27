@@ -23,5 +23,6 @@ public class Main {
         Person p1 = new Person();
         System.out.println("Name:" + p1.getName() + "\nAge:" + p1.getAge() + "\nAddress: "+p1.getAddress() + "\nPhone Number:" + p1.getPhone_number());
 
+
     }
 }
