@@ -20,7 +20,7 @@ public class Main {
 
  */
 
-        Person p1 = new Person();
+        Person p1 = new Person("Giovanni", "23", "salerno", "1234566");
         System.out.println("Name:" + p1.getName() + "\nAge:" + p1.getAge() + "\nAddress: "+p1.getAddress() + "\nPhone Number:" + p1.getPhone_number());
 
 
