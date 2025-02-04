@@ -1,0 +1,9 @@
+package Homework.HW31012025;
+
+public enum Days {
+
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
+
+
+
+}
